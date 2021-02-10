@@ -1,0 +1,13 @@
+.team_have {
+  text-align: center;
+  font-family: 'Balsamiq Sans', cursive;
+}
+.team_have span {
+  margin-right: 1rem;
+}
+.team_img {
+  height: 13rem;
+  background: url("https://roam.qodeinteractive.com/wp-content/uploads/2017/08/team-member-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
